@@ -148,7 +148,7 @@ require (
 	github.com/projectdiscovery/tlsx v1.1.4 // indirect
 	github.com/projectdiscovery/utils v0.0.52 // indirect
 	github.com/projectdiscovery/yamldoc-go v1.0.4 // indirect
-	github.com/quic-go/quic-go v0.37.4 // indirect
+	github.com/quic-go/quic-go v0.37.7 // indirect
 	github.com/refraction-networking/utls v1.5.2 // indirect
 	github.com/remeh/sizedwaitgroup v1.0.0 // indirect
 	github.com/rivo/uniseg v0.4.4 // indirect
