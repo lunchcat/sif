@@ -52,7 +52,7 @@ require (
 	github.com/charmbracelet/glamour v0.6.0 // indirect
 	github.com/cheggaaa/pb/v3 v3.1.4 // indirect
 	github.com/cloudflare/cfssl v1.6.4 // indirect
-	github.com/cloudflare/circl v1.3.3 // indirect
+	github.com/cloudflare/circl v1.3.7 // indirect
 	github.com/cnf/structhash v0.0.0-20201127153200-e1b16c1ebc08 // indirect
 	github.com/corpix/uarand v0.2.0 // indirect
 	github.com/dimchansky/utfbom v1.1.1 // indirect
@@ -102,7 +102,6 @@ require (
 	github.com/klauspost/cpuid/v2 v2.2.5 // indirect
 	github.com/leodido/go-urn v1.2.4 // indirect
 	github.com/libdns/libdns v0.2.1 // indirect
-	github.com/likexian/whois v1.15.1 // indirect
 	github.com/logrusorgru/aurora v2.0.3+incompatible // indirect
 	github.com/lor00x/goldap v0.0.0-20180618054307-a546dffdd1a3 // indirect
 	github.com/lucasb-eyer/go-colorful v1.2.0 // indirect
